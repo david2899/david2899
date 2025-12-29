@@ -111,13 +111,13 @@ I'm a passionate developer who loves creating innovative and efficient solutions
 
 ## 💼 Professional Experience
 
-### **Fullstack Developer** | PRONOSTICO MARKET
+### **Fullstack Web3/Blockchain Developer** | PRONOSTICO MARKET
 
 **Date:** January 2025 - Present
 * Building scalable decentralized applications and prediction markets
 * Developing Web3 features and blockchain integrations
 
-### **Fullstack Developer** | Wayru
+### **Fullstack Web3/Blockchain Developer** | Wayru
 
 **Date:** May 2022 - December 2025.
 * Built scalable decentralized apps using React Native (CLI / Expo), React.js, Next.js, Python, Strapi, Algorand, Solana, IoTeX, and Peaq smart contracts
