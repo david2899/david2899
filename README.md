@@ -156,10 +156,10 @@ I'm a passionate developer who loves creating innovative and efficient solutions
 
 ## 🤝 Open Source Contributions
 
-* [Dashboard Backend]([link](https://github.com/Wayru-Network/dashboard-backend)) - A comprehensive Strapi-based backend system for managing decentralized WiFi networks (DePIN), blockchain transactions, rewards, NFTs, and user interactions. This backend powers a multi-chain infrastructure supporting various blockchain networks including Solana, Algorand, Ethereum, Polygon, Base, BSC, IoTeX, and Peaq.
-* [WAYRU Explorer Web]([link](https://github.com/Wayru-Network/explorer-web)) - A comprehensive blockchain explorer and web interface for the WAYRU Network, a decentralized physical infrastructure network (DePIN) built on Solana. This application provides real-time visualization of network hotspots, staking operations, reward claiming, and network statistics.
-* [Solana Sign Service]([link](https://github.com/Wayru-Network/solana-sign-service)) - A robust Node.js microservice for handling Solana blockchain transaction signing and management. This service provides secure endpoints for various Solana operations including reward claims, token staking, NFT node initialization, and more.
-* [More Projects here]([link](https://github.com/Wayru-Network))
+* [Dashboard Backend](https://github.com/Wayru-Network/dashboard-backend) - A comprehensive Strapi-based backend system for managing decentralized WiFi networks (DePIN), blockchain transactions, rewards, NFTs, and user interactions. This backend powers a multi-chain infrastructure supporting various blockchain networks including Solana, Algorand, Ethereum, Polygon, Base, BSC, IoTeX, and Peaq.
+* [WAYRU Explorer Web](https://github.com/Wayru-Network/explorer-web) - A comprehensive blockchain explorer and web interface for the WAYRU Network, a decentralized physical infrastructure network (DePIN) built on Solana. This application provides real-time visualization of network hotspots, staking operations, reward claiming, and network statistics.
+* [Solana Sign Service](https://github.com/Wayru-Network/solana-sign-service) - A robust Node.js microservice for handling Solana blockchain transaction signing and management. This service provides secure endpoints for various Solana operations including reward claims, token staking, NFT node initialization, and more.
+* [More Projects here](https://github.com/Wayru-Network)
   
 ---
 
