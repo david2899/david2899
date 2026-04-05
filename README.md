@@ -113,7 +113,7 @@ I'm a passionate developer who loves creating innovative and efficient solutions
 
 ### **Fullstack Web3/Blockchain Developer** | PRONOSTICO MARKET
 
-**Date:** January 2025 - Present
+**Date:** January 2026 - March 2026
 * Building scalable decentralized applications and prediction markets
 * Developing Web3 features and blockchain integrations
 
