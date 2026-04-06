@@ -16,7 +16,7 @@
 <!-- Here you can write a brief description about yourself, your interests, passions, etc. -->
 I'm a passionate developer who loves creating innovative and efficient solutions. I enjoy learning new technologies and sharing knowledge with the community.
 
-* 🔭 **Currently working on:** PRONOSTICO MARKET
+* 🔭 **Currently working on:** Freelancer
 * 🌱 **Currently learning:** [N8N](https://n8n.io/)
 * 💬 **Ask me about:** Front end, Back end, web3 development.
 * 📫 **How to reach me:** djiron612@gmail.com
