@@ -111,7 +111,7 @@ I'm a passionate developer who loves creating innovative and efficient solutions
 
 ## 💼 Professional Experience
 
-### **Fullstack Web3/Blockchain Developer** | **[PRNOSTCO MARKET](https://pronostico.market)**
+### **Fullstack Web3/Blockchain Developer** | <a href="https://pronostico.market" target="_blank">**PRNOSTCO MARKET**</a>
 
 **Date:** January 2026 - March 2026
 * Building scalable decentralized applications and prediction markets
